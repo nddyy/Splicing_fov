@@ -1,0 +1,11 @@
+﻿  Splicing.cpp
+Splicing.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  Splicing.cpp(1): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+Splicing.cpp(70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 1808 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Splicing_fov.vcxproj -> C:\Users\wentianshun\Documents\Visual Studio 2015\Projects\Splicing_fov\x64\Release\Splicing_fov.exe
+  Splicing_fov.vcxproj -> C:\Users\wentianshun\Documents\Visual Studio 2015\Projects\Splicing_fov\x64\Release\Splicing_fov.pdb (Full PDB)
